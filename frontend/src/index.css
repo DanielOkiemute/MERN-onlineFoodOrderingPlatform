@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+body {
+    background-color: rgb(14,13,12);
+    color: white;
+}
+
+.bg1{
+    background-color: rgb(26,27,28);
+}
+.bg2{
+    background-color: rgb(16,17,18);
+}
+
+.bgImg {
+    background-image: url('/assets/backgrnd.jpg');
+    background-size: cover;
+}
